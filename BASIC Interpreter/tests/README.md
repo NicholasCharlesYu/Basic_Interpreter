@@ -1,0 +1,1 @@
+ Run the script with the command: `./run_tests.sh` through the command line. The script will give error messages if your program ever crashes, or the output is different that expected. The script will output a diff of the program output and expected solution. The output files will be placed in the `test_output/` folder.

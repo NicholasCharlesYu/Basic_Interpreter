@@ -1,0 +1,4 @@
+1 ADD SAM 10
+2 PRINTALL
+3 END
+4 .

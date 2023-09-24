@@ -1,0 +1,6 @@
+  1 LET    MERRY  5
+  2  LET              PIPPIN   12
+  3 ADD    MERRY      PIPPIN
+  4  PRINT MERRY
+  5 PRINTALL
+  6  .

@@ -1,0 +1,4 @@
+1 LET ALL 15
+2 IF ALL = 15 THEN 10
+3 END
+4 .
